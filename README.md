@@ -1,8 +1,4 @@
-# RaveLofi
-24/7 Lofi bot designed for the official [RaveCraft Discord server](https://dsc.gg/ravecraft)
-
-![RaveLofi Banner](https://i.imgur.com/UPqUgd7.png)
-
+# discord stream bot
 **⚠️Important!** This bot isn't hosted publicly, feel free however to clone this repo to host your own version!
 
 ### Installation
@@ -10,7 +6,7 @@ You need to have python, git and pip already setup on your machine, in order to 
 
 #### 1. Clone the repo
   ```sh
-  git clone https://github.com/nikdraws/RaveLofi
+  git clone https://github.com/promptdrake/discord-bot-stream/
   ```
 #### 2. Install the requirements
   ```sh
